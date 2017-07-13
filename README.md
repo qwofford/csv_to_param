@@ -10,7 +10,7 @@ This tool covers both cases in two scripts.
 ### If you are generating parameterized scripts from a csv file **with** headers, use **csv_reader.sh**
 
 	➜  bash_csv_reader git:(master) ✗ cat my_csv.csv 
-	arg1,arg2,arg3
+	>>> arg1,arg2,arg3
 	>>> 1,2,3
 	>>> 4,5,6
 	>>> 7,8,9
