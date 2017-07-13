@@ -16,7 +16,7 @@ This tool covers both cases in two scripts.
 	>>> 7,8,9
 
 	➜  bash_csv_reader git:(master) ✗ ./csv_reader.sh "python my_script" my_csv.csv 
-	>>> python my_script arg1=1 arg2=2 arg3=3
+	>>> python my_script <span style="color:blue">arg1</span>=1 arg2=2 arg3=3
 	>>> python my_script arg1=4 arg2=5 arg3=6
 	>>> python my_script arg1=7 arg2=8 arg3=9
 
